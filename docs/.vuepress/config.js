@@ -2,7 +2,7 @@ module.exports = {
     title: '个人博客',
     description: '个人博客',
     theme: 'reco',
-    base: '/learn-vue/',
+    base: '/learn-vuepress/',
     head: [
         ['link', { rel: 'icon', href: '/logo.jfif' }]
     ],
